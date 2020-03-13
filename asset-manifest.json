@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tech-challenge/static/css/main.81ea6e0b.chunk.css",
+    "main.js": "/tech-challenge/static/js/main.06b72510.chunk.js",
+    "main.js.map": "/tech-challenge/static/js/main.06b72510.chunk.js.map",
+    "runtime-main.js": "/tech-challenge/static/js/runtime-main.ae973c9b.js",
+    "runtime-main.js.map": "/tech-challenge/static/js/runtime-main.ae973c9b.js.map",
+    "static/js/2.01d22188.chunk.js": "/tech-challenge/static/js/2.01d22188.chunk.js",
+    "static/js/2.01d22188.chunk.js.map": "/tech-challenge/static/js/2.01d22188.chunk.js.map",
+    "index.html": "/tech-challenge/index.html",
+    "precache-manifest.8904ea59536f3a1e735fab8f808b77bf.js": "/tech-challenge/precache-manifest.8904ea59536f3a1e735fab8f808b77bf.js",
+    "service-worker.js": "/tech-challenge/service-worker.js",
+    "static/css/main.81ea6e0b.chunk.css.map": "/tech-challenge/static/css/main.81ea6e0b.chunk.css.map",
+    "static/js/2.01d22188.chunk.js.LICENSE.txt": "/tech-challenge/static/js/2.01d22188.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tech-challenge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae973c9b.js",
+    "static/js/2.01d22188.chunk.js",
+    "static/css/main.81ea6e0b.chunk.css",
+    "static/js/main.06b72510.chunk.js"
+  ]
+}
