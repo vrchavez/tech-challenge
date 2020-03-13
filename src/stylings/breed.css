@@ -1,0 +1,23 @@
+.breed-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.breed-grid> li {
+    margin: 30px !important;
+    border: 1px solid grey;
+}
+
+.breed-grid input {
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
